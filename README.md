@@ -1,4 +1,4 @@
-# <nikoyaka-farm>
+# nikoyaka-farm
 
 ## サイト概要
 農園のHPです。  
